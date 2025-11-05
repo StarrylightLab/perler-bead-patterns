@@ -1,0 +1,18 @@
+{
+  "name": "像素画色号标注工具",
+  "short_name": "像素画工具",
+  "description": "一款帮助像素画爱好者分析颜色和生成色号标注的工具",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#42b983",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
